@@ -1,5 +1,5 @@
 {
-    "name": "diego/hello-world",
+    "name": "diego-karabin/hello-world",
     "description": "My First Composer Package",
     "type": "library",
     "authors": [
