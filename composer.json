@@ -1,0 +1,18 @@
+{
+    "name": "diego/hello-world",
+    "description": "My First Composer Package",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Diego Karabin",
+            "email": "diegokarabin@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "HelloWorld\\": "src/HelloWorld"
+        }
+    }
+}
